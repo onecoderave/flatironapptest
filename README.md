@@ -1,6 +1,8 @@
-clone the repo at https://github.com/onecoderave/flatironapptest.git and then run npm install
+clone the repo at https://github.com/onecoderave/flatironapptest.git
 
-cd into flatironapptest directory and run 'npm run dev'
+cd into flatironapptest and then run 'npm install'.
+
+once done run 'npm run dev'. this will start the react app and a json-server running on 3000 and 5000 respectively.
 
 then click on the profile pics that you see on the screen.
 
