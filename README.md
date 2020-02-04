@@ -1,4 +1,6 @@
-cd into FLATIRONAPP directory and run 'npm run dev'
+clone the repo at https://github.com/onecoderave/flatironapptest.git and then run npm install
+
+cd into flatironapptest directory and run 'npm run dev'
 
 then click on the profile pics that you see on the screen.
 
